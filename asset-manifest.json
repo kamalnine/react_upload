@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/http//kamalnine.githtb.io/react_upload/static/css/main.abd64e84.css",
+    "main.js": "/http//kamalnine.githtb.io/react_upload/static/js/main.25fe549b.js",
+    "static/js/787.41432ce3.chunk.js": "/http//kamalnine.githtb.io/react_upload/static/js/787.41432ce3.chunk.js",
+    "index.html": "/http//kamalnine.githtb.io/react_upload/index.html",
+    "main.abd64e84.css.map": "/http//kamalnine.githtb.io/react_upload/static/css/main.abd64e84.css.map",
+    "main.25fe549b.js.map": "/http//kamalnine.githtb.io/react_upload/static/js/main.25fe549b.js.map",
+    "787.41432ce3.chunk.js.map": "/http//kamalnine.githtb.io/react_upload/static/js/787.41432ce3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.25fe549b.js"
+  ]
+}
